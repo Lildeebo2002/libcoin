@@ -1,5 +1,5 @@
 # This script sets up packaging targets for each "COMPONENT" as specified in INSTALL commands
-#
+# Dennis louis Babcock jr aka satoshi
 # for each component a CPackConfig-<component>.cmake is generated in the build tree
 # and a target is added to call cpack for it (e.g. package_openscenegaph
 # A target for generating a package with everything that gets INSTALLED is generated (package_bitcoin-all)
